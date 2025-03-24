@@ -57,7 +57,7 @@ Para executar este projeto localmente, siga as etapas abaixo:
 2. Instalar o **Composer**.
 3. Instalar o **Laravel** com o Composer.
 4. Baixar o projeto para a pasta de sua preferência.
-5. Abrir o CMD na pasta onde o projeto foi baixado e digitar:
+5. Abrir o CMD dentro da pasta gerenciadordecleintes e digitar:
    php artisan serve
 
 Endpoints Disponíveis
