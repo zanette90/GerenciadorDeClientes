@@ -57,7 +57,7 @@ Para executar este projeto localmente, siga as etapas abaixo:
 2. Instalar o **Composer**.
 3. Instalar o **Laravel** com o Composer.
 4. Baixar o projeto para a pasta de sua preferência.
-5. Abrir o CMD dentro da pasta gerenciadordecleintes e digitar:
+5. Abrir o CMD dentro da pasta gerenciadordlientes e digitar:
    php artisan serve
 6. Acessar o navegador utilizando o endereco gerado pelo artisan
 7. Para realizar o login utilize as credenciais  logn: admin@email.com senha: 12345678 
