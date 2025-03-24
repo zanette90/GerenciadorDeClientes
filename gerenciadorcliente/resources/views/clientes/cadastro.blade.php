@@ -174,8 +174,7 @@
 
 <script>
     document.getElementById('cep').addEventListener('blur', function() {
-
-        let cpf = document.getElementById('cpf')
+        
         cep = this.value.replace(/\D/g, '');
 
         if (cep.length === 8) {
